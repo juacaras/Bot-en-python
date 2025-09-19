@@ -1,0 +1,20 @@
+opciones_yuumi = [
+        "https://tenor.com/view/senko-discord-gif-176094506441078987",
+        "https://tenor.com/view/xiehuapiaopiaobeingfunxiaoxiao-gif-20685092",
+        "https://tenor.com/view/anime-the-helpful-fox-senkosan-sewayaki-kitsune-no-senkosan-senko-cute-gif-16910485",
+        "https://tenor.com/view/senko-light-cute-anime-the-helpful-fox-senko-san-gif-14801505",
+        "https://tenor.com/view/bocchi-the-rock-bocchi-roll-rolling-rolling-on-the-floor-gif-4645200487976536632",
+        "https://tenor.com/view/yuumi-chibiin-3d-league-of-legends-default-dance-gif-26191463",
+        "https://tenor.com/view/plankton-plankton-meme-gif-15640350090336605258",
+        "https://tenor.com/view/sims-cat-yuumi-league-of-legends-gif-26313707",
+        "https://tenor.com/view/yomi-yuumi-gif-24250850",
+        "https://tenor.com/view/tetoris-kasane-teto-teto-synthv-hiiragi-magnetite-gif-13980202707426180496",
+        "https://tenor.com/view/teto-i-know-where-you-live-funny-address-ip-address-gif-8147551049352132579",
+        "https://tenor.com/view/cat-meme-goofy-ahh-silly-creature-chipi-chipi-chapa-chapa-gif-1011367398166250757",
+        "https://tenor.com/view/kasane-teto-teto-kasane-pearto-triple-baka-triple-baka-teto-dance-gif-14219668400298611625",
+        "https://tenor.com/view/yuumi-dance-yuumi-dance-gif-gif-27510974",
+        "https://tenor.com/view/nfl-draft-pezer-pezermitch-nfl-player-talk-gif-16787900893663737903",
+        "https://tenor.com/view/sawtowne-confession-of-a-rotten-girl-fujoshi-miku-hatsune-miku-gif-14693254742202977757",
+        "https://tenor.com/view/needy-streamer-overload-needy-girl-overdose-kangel-ame-chan-hatsune-miku-gif-5053684010661635580",
+        "https://tenor.com/view/pony-town-hop-on-pony-town-rotten-girl-confessions-of-a-rotten-girl-miku-gif-16320874779230488909"
+    ]

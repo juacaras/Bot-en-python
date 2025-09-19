@@ -5,7 +5,8 @@ import sys
 import io
 import juego_bingo
 import time
-
+import random
+from opciones_yuumi import opciones_yuumi
 
 # Intents (requeridos para la API de Discord)
 intents = discord.Intents.default()
@@ -58,8 +59,18 @@ async def bingo(ctx):
         output = output[:1900] + "\n... (output truncado)"
 
     await ctx.send(f"📜 Resultado del Bingo:\n```\n{output}\n```")
-
-
+@bot.command()
+async def yuumi(ctx):
+    await ctx.send(random.choice((opciones_yuumi)))
+@bot.command()
+async def kuroh(ctx):
+    await ctx.send("https://tenor.com/view/taraterrorful-tara-terrorful-cute-cute-cat-cat-gif-325998699308525328")
+@bot.command() 
+async def lauren(ctx):
+    await ctx.send("https://tenor.com/view/death-stranding-kon-among-us-venti-genshin-impact-gif-19201377")
+@bot.command()
+async def pchan(ctx):
+    await ctx.send("https://tenor.com/view/pchan-needy-streamer-overload-nso-pchan-plush-p-chan-gif-14379805615925328831")
 # Ejecutar el bot (reemplaza con tu token)
-bot.run("Token")
+bot.run("token_aqui")
 
