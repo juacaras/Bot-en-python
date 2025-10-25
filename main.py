@@ -166,11 +166,11 @@ async def comandos(ctx):
             discord.SelectOption(label="Juegos", description="comandos de juegos")
         ]
     )
-    async def select_callback(interactiom):
+    async def select_callback(interaction):
         if select.values[0] == "Inicio":
-            await interactiom.response.edit_message(embed=embed_inicial)
+            await interaction.response.edit_message(embed=embed_inicial)
         elif select.values[0] == "Juegos":
-            await interactiom.response.edit_message(embed=embed_juegos)
+            await interaction.response.edit_message(embed=embed_juegos)
     embed_inicial.set_image(url="https://media.discordapp.net/attachments/1166114583828766843/1203732152223797328/image0.gif?ex=68fcf46d&is=68fba2ed&hm=dc6880ef7f1a999360f3b54490c336ba54092ace963882ebcd51a3539da79860&")
     select.callback = select_callback
     view = View()
